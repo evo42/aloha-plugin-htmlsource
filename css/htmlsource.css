@@ -6,8 +6,9 @@
 	position: absolute;
 	right: 0;
 	left: 0;
-	bottom: 5px;
+	bottom: 2px;
 	top: 0;
+	padding: 2px 0 2px 2px;
 }
 
 .aloha-plugin-htmlsource textarea {
