@@ -32,3 +32,12 @@ Aloha.settings = {
 ```
 
 The "View HTML Source" button ("htmlsource") will be added to a new tab labeled "Actions". That tab will be on the 3rd position after the "Format" and "Insert" tab.
+
+
+## CSS
+
+You'll also need to add a jQuery UI CSS style / theme.
+
+```html
+<link href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+```
